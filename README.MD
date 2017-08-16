@@ -1,7 +1,10 @@
 # Regular Expression Exercise
 ## Look up a website that has regex rules.
-### Here's a regex cheat sheet http://www.rexegg.com/regex-quickstart.html
+### Here's a regex cheat sheet
 
+ http://www.rexegg.com/regex-quickstart.html
+
+### This is a link to MDN
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 
 ## Part 1
